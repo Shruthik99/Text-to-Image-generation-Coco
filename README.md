@@ -208,10 +208,6 @@ pipe.enable_attention_slicing()
 pipe.enable_vae_slicing()
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -222,7 +218,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **CLIP** by OpenAI
 - **Diffusers Library** by Hugging Face
 - **COCO Dataset** by Microsoft
-- Course: IE 7615 - Generative AI at Northeastern University
 
 ## 📧 Contact
 
