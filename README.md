@@ -125,23 +125,6 @@ image.save("generated_image.png")
 
 *Tested on NVIDIA A100 GPU with 50 inference steps*
 
-## 📁 Project Structure
-
-```
-Text-to-Image-generation/
-├── IE_7615_Generative_Project_Final.ipynb  # Main notebook
-├── README.md                                # Project documentation
-├── requirements.txt                         # Python dependencies
-├── .gitignore                              # Git ignore rules
-├── data/
-│   ├── coco_captions/                      # COCO dataset captions
-│   └── processed/                          # Preprocessed data
-├── models/
-│   ├── fine_tuned_model/                   # Fine-tuned SD model
-│   └── checkpoints/                        # Training checkpoints
-└── outputs/
-    ├── generated_images/                   # Generated samples
-    └── evaluation_results/                 # Metrics and logs
 ```
 
 ## 🔬 Evaluation Metrics
