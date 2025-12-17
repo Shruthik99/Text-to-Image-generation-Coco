@@ -226,7 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Shruthi Swamy**
+**Shruthi Kashetty**
 - GitHub: [@Shruthik99](https://github.com/Shruthik99)
 - Project: [Text-to-Image-generation](https://github.com/Shruthik99/Text-to-Image-generation)
 
